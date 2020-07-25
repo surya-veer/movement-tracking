@@ -20,6 +20,8 @@ This is the list of dependencies for running this application. Use pip to instal
 1. Download or clone this repository.
 2. Extract to some location.
 3. First, run **```movement-v1.py```** (for fix boundary) or run **```movement-v2.py```**(for dynamic movement)
+4. open any online atari game like Subway surfers or temple run.
+5. Start doing movements to play game. It will press up-down-left-right based on your movements.
 
 # Fun with face movements
 Open any online game on the browser which needs UP-DOWN-LEFT-RIGHT movements following games, you can find many games if you search on google.

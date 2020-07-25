@@ -28,4 +28,4 @@ Open any online game on the browser which needs UP-DOWN-LEFT-RIGHT movements fol
 
 ### You can do a lot more things by the small code change. 
 
-# ** SUPPORT OPEN SOUORCE **
+### ** SUPPORT OPEN SOURCE **

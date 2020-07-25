@@ -1,4 +1,4 @@
-# Realtime Face Movement Tracing
+# Realtime Face Movement Tracking
 90 Lines of code to convert your face movement into keyboard commands.
 
 # Description

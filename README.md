@@ -19,7 +19,9 @@ This is the list of dependencies for running this application. Use pip to instal
 ## How to use
 1. Download or clone this repository.
 2. Extract to some location.
-3. First, run **```movement-v1.py```** (for fix boundary) or run **```movement-v2.py```**(for dynamic movement)
+3. First, run **```movement-v1.py```** (for fix boundary) or run **```movement-v2.py```**(for dynamic movement) <br>
+  NOTE: If you are getting 215 assertion failed!! on line 81 check this (https://github.com/surya-veer/movement-tracking/issues/4#issuecomment-664018021)
+
 4. open any online atari game like Subway surfers or temple run.
 5. Start doing movements to play game. It will press up-down-left-right based on your movements.
 
